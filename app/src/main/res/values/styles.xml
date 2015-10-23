@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:textViewStyle">@style/textviewstyles</item>
+        <item name="android:itemTextAppearance">@style/itemTextStyle</item>
+    </style>
+
+    <style name="textviewstyles" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="itemTextStyle" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EliDMX</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sharedPref">eastlightningsharedprefkey</string>
+    <string name="title_activity_main">ELiDMX</string>
+    <string name="edit_scene">Edit this scene</string>
+    <string name="delete_scene">Delete this scene</string>
+    <string name="add_scene">Create a new scene</string>
+    <string name="kill_lights">Kill all lights</string>
+    <string name="refresh">Refresh list of scenes and lights</string>
+    <string name="title_activity_edit_scene">Edit Scenes</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
